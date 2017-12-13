@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lazerdeath3", "lazerdeath3.csproj", "{3772932B-D9CF-E63D-CD57-09CA33661D7D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lazerdeath3.Plugins", "lazerdeath3.Plugins.csproj", "{23EBEC88-E948-6042-C67B-27CCCAAAF753}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lazerdeath3.Editor.Plugins", "lazerdeath3.Editor.Plugins.csproj", "{2A523042-B448-6BAA-6500-A9EE7D4E7BCD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3772932B-D9CF-E63D-CD57-09CA33661D7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3772932B-D9CF-E63D-CD57-09CA33661D7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3772932B-D9CF-E63D-CD57-09CA33661D7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3772932B-D9CF-E63D-CD57-09CA33661D7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23EBEC88-E948-6042-C67B-27CCCAAAF753}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23EBEC88-E948-6042-C67B-27CCCAAAF753}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23EBEC88-E948-6042-C67B-27CCCAAAF753}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23EBEC88-E948-6042-C67B-27CCCAAAF753}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A523042-B448-6BAA-6500-A9EE7D4E7BCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A523042-B448-6BAA-6500-A9EE7D4E7BCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A523042-B448-6BAA-6500-A9EE7D4E7BCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A523042-B448-6BAA-6500-A9EE7D4E7BCD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
